@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Libraryloads_by_Kicad") (type "KiCad") (uri "C:/Users/User/Documents/Libraryloads_by_Kicad.pretty") (options "") (descr ""))
+	(lib (name "DESCARGAS PARA KICAD") (type "KiCad") (uri "C:/Users/User/Documents/KiCad/DESCARGAS PARA KICAD.pretty") (options "") (descr ""))
+)
