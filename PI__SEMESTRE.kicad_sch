@@ -6598,7 +6598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "020e8f46-3aed-412e-ab5b-b3caf4d37857")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR097"
 			(at 241.3 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6658,7 +6658,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR033")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -6675,7 +6675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0234773c-a54f-4408-af75-2fc3542387da")
-		(property "Reference" "R14"
+		(property "Reference" "R25"
 			(at 190.5 128.016 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6737,7 +6737,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R14")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -6755,7 +6755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09bad352-376c-4a76-bcd3-f5407b0be4bd")
-		(property "Reference" "R9"
+		(property "Reference" "R19"
 			(at 130.81 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6819,7 +6819,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R9")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -6837,7 +6837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a7cba08-173d-43d3-8deb-055fa3450d71")
-		(property "Reference" "C12"
+		(property "Reference" "C25"
 			(at 260.35 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6901,7 +6901,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C12")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -6919,7 +6919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bc315d0-5357-466a-aaf4-1dd60e66439c")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR052"
 			(at 107.95 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -6979,7 +6979,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR036")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -6997,7 +6997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c3bb8cc-caac-4fde-93af-c9b4bdf5270f")
-		(property "Reference" "C10"
+		(property "Reference" "C13"
 			(at 85.09 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7061,7 +7061,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C10")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7079,7 +7079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1657d62e-de42-4de4-a5d6-2ebc5d76fea5")
-		(property "Reference" "C2"
+		(property "Reference" "C1"
 			(at 34.29 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7143,7 +7143,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -7161,7 +7161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19dfadd6-4499-43e2-b64c-13d6be755137")
-		(property "Reference" "R2"
+		(property "Reference" "R44"
 			(at 274.32 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7225,7 +7225,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R2")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -7243,7 +7243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b2586d5-1ab9-4877-b305-f39a71b4966b")
-		(property "Reference" "S1"
+		(property "Reference" "S4"
 			(at 101.6 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7441,7 +7441,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "S1")
+					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -7459,7 +7459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d4fd2da-f9fe-4810-a8ab-0c6d740a6ab4")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR04"
 			(at 30.48 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -7520,7 +7520,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR015")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -7538,7 +7538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2013c379-191e-4448-9e1e-08e829ea4b84")
-		(property "Reference" "IC2"
+		(property "Reference" "IC1"
 			(at 118.11 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7680,7 +7680,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "IC2")
+					(reference "IC1")
 					(unit 1)
 				)
 			)
@@ -7698,7 +7698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22a16db4-a2ce-4161-bead-7dced1f42105")
-		(property "Reference" "U1"
+		(property "Reference" "U11"
 			(at 177.4033 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7720,7 +7720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+		(property "Footprint" "SamacSys_Parts:XCVR_ESP32-S3-WROOM-1U-N16R8"
 			(at 175.26 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7879,7 +7879,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "U1")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -7897,7 +7897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2658a945-cc04-4e44-867b-b6e2aeb357a0")
-		(property "Reference" "R8"
+		(property "Reference" "R16"
 			(at 119.38 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7961,7 +7961,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R8")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -7979,7 +7979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26707f4a-16ef-4f80-92af-86ec32d68cf1")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR010"
 			(at 38.1 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8039,7 +8039,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR013")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8349,7 +8349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c87a1e5-580c-4311-9478-64191b73782b")
-		(property "Reference" "C4"
+		(property "Reference" "C11"
 			(at 77.47 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8413,7 +8413,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C4")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8430,7 +8430,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cb630b4-bee2-4b56-b5be-fdde83a60ba8")
-		(property "Reference" "R17"
+		(property "Reference" "R37"
 			(at 237.744 134.874 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8492,7 +8492,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R17")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -8510,7 +8510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cf4b1d3-aaee-45f4-8124-cb6cb0cdf405")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR0108"
 			(at 269.24 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -8570,7 +8570,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR09")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -8588,7 +8588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a625180-bd35-48bb-95e9-02f9c8922411")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR013"
 			(at 46.99 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8648,7 +8648,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR07")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -8666,7 +8666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b758633-77b4-4a01-bc4a-d7365515840c")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR083"
 			(at 185.42 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8726,7 +8726,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR031")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -8744,7 +8744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41370c60-7aec-4247-851e-66b71fb88bed")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR058"
 			(at 116.84 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8804,7 +8804,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR020")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -8822,7 +8822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "443b8781-32a3-481e-94ff-85ef0a111068")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR0111"
 			(at 269.24 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8882,7 +8882,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR032")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -8900,7 +8900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46568bdb-8db0-4ecc-ac34-482ee8ae23c4")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR032"
 			(at 86.36 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8960,7 +8960,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR06")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8978,7 +8978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "468caa39-2964-4dde-9ffb-f51ef4fec784")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR025"
 			(at 81.28 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9038,7 +9038,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR010")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -9055,7 +9055,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48c940f8-a4ac-4430-ae7a-ac3dad58d91e")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 51.816 139.446 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9135,7 +9135,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -9152,7 +9152,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4986a193-2e1b-4270-b182-18c7fe40f10e")
-		(property "Reference" "R15"
+		(property "Reference" "R40"
 			(at 247.65 118.364 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9214,7 +9214,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R15")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -9231,7 +9231,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a62bdf2-e744-40e8-b209-c562ddf43843")
-		(property "Reference" "R3"
+		(property "Reference" "R31"
 			(at 196.85 43.434 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9251,7 +9251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.85 42.418 90)
 			(hide yes)
 			(show_name no)
@@ -9293,7 +9293,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R3")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -9311,7 +9311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "542fb232-fd32-4dcd-9354-6cd6187e750e")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR062"
 			(at 116.84 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9371,7 +9371,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR011")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -9389,7 +9389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55365b92-8250-4e0d-b387-78fc6597a102")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR049"
 			(at 105.41 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9449,7 +9449,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR019")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -9467,7 +9467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59ba69bd-fb61-4eb4-a2e6-15d46bc0e723")
-		(property "Reference" "D2"
+		(property "Reference" "D5"
 			(at 120.65 40.9574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9542,7 +9542,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "D2")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -9560,7 +9560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60a94fc2-421e-4f47-b9be-6f6b43b25253")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 87.63 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -9620,7 +9620,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -9638,7 +9638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "651c6759-58f3-47d0-8208-300692131cb5")
-		(property "Reference" "R6"
+		(property "Reference" "R3"
 			(at 27.94 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9658,7 +9658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 27.94 57.658 90)
 			(hide yes)
 			(show_name no)
@@ -9700,7 +9700,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R6")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9718,7 +9718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "689354c4-0724-485c-80ed-ba8bbbd2655b")
-		(property "Reference" "U6"
+		(property "Reference" "U14"
 			(at 217.17 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9932,7 +9932,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "U6")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -9949,7 +9949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "690b75f0-2532-4eb1-b116-5571e743c0ac")
-		(property "Reference" "C11"
+		(property "Reference" "C23"
 			(at 148.844 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10011,7 +10011,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C11")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -10028,7 +10028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d1951b1-df33-48fc-9c70-3e48e217efa9")
-		(property "Reference" "R13"
+		(property "Reference" "R11"
 			(at 90.424 122.428 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10090,7 +10090,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R13")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10108,7 +10108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72648007-2589-4a81-aac7-32ee011cd219")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 46.99 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10173,7 +10173,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10191,7 +10191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74e20789-89e0-4688-86f2-87aa96954cb1")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR0101"
 			(at 256.54 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10251,7 +10251,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR029")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -10269,7 +10269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83fd4922-c6e7-4378-ae75-3671deef79b0")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR047"
 			(at 105.41 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10330,7 +10330,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR028")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -10348,7 +10348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a2cf7e9-be00-45ae-9fba-7160eb1dba23")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR08"
 			(at 30.48 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10408,7 +10408,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR03")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -10426,7 +10426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bd8d6f7-15fc-43c5-a241-8141e9268235")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR0112"
 			(at 269.24 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10486,7 +10486,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR030")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -10504,7 +10504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f3c3833-56c2-4289-a28c-08705d58f2f2")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 109.22 40.9574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10579,7 +10579,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -10597,7 +10597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "905393a3-6116-411b-8809-90b6bc06d748")
-		(property "Reference" "C3"
+		(property "Reference" "C20"
 			(at 120.65 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10723,7 +10723,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C3")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -10741,7 +10741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91a427b0-1748-4a14-a946-67d5eb292163")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR094"
 			(at 240.03 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -10801,7 +10801,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR027")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -10819,7 +10819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95d09742-2860-4248-a79b-7e6b0d5a5aa3")
-		(property "Reference" "D3"
+		(property "Reference" "D9"
 			(at 132.08 40.9574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10894,7 +10894,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "D3")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -10912,7 +10912,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "972374be-04c2-4ba5-9cd5-e9ef7a717435")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR087"
 			(at 222.25 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10972,7 +10972,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR016")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -10990,7 +10990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98d909d7-1b55-40fb-bb4d-2c6d933b333e")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR030"
 			(at 81.28 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11050,7 +11050,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR023")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -11068,7 +11068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "991a801c-e942-4293-b689-c66768247bae")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR056"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11129,7 +11129,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR022")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -11147,7 +11147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cb5b20f-ae00-4329-8b0c-ba30e93bb1b1")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR037"
 			(at 95.25 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -11208,7 +11208,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR014")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -11226,7 +11226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2597021-acca-4bea-affc-06c844135a66")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR080"
 			(at 175.26 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -11286,7 +11286,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR02")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -11304,7 +11304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a36460e0-3d82-476a-8143-4e53add7f191")
-		(property "Reference" "C13"
+		(property "Reference" "C28"
 			(at 273.05 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11368,7 +11368,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C13")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -11386,7 +11386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3e9abc8-c3b2-45ce-8677-4ae14dfe108c")
-		(property "Reference" "C5"
+		(property "Reference" "C17"
 			(at 90.17 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11450,7 +11450,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C5")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -11468,7 +11468,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3e9afc1-2c62-49a0-9cf2-7a70c30c3e07")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR092"
 			(at 234.95 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11528,7 +11528,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR026")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -11546,7 +11546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a44d973c-52d9-4ef0-9f47-7da0b9462d03")
-		(property "Reference" "S2"
+		(property "Reference" "S1"
 			(at 41.91 63.4999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11744,7 +11744,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "S2")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -11762,7 +11762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8f5d9c4-28ef-428e-b66f-2dacdcc41358")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR071"
 			(at 140.97 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11822,7 +11822,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR034")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -11840,7 +11840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a92ff114-c929-4326-bd98-d3883f6fc3fa")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR069"
 			(at 135.89 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -11900,7 +11900,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR025")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -11918,7 +11918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acad89d8-fd39-4f20-9400-66175ced18c8")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR075"
 			(at 154.94 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11978,7 +11978,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR037")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -11996,7 +11996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae54db8c-150f-4ab8-8c29-dfbecbebdbd9")
-		(property "Reference" "R1"
+		(property "Reference" "R35"
 			(at 218.44 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12060,7 +12060,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R1")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -12077,7 +12077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b67c79d7-ef31-466c-9c0c-97452d864200")
-		(property "Reference" "U5"
+		(property "Reference" "U9"
 			(at 81.788 144.272 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12395,7 +12395,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "U5")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -12413,7 +12413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9f0a500-462f-4f10-8f33-f15ec4a1f950")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR065"
 			(at 128.27 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12473,7 +12473,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR021")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -12490,7 +12490,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bafe305f-1bc8-410f-aa55-7b085126ae62")
-		(property "Reference" "R12"
+		(property "Reference" "R6"
 			(at 77.978 142.748 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12554,7 +12554,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R12")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -12572,7 +12572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2e5d9f6-6d40-4725-a067-359deaaef111")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR090"
 			(at 224.79 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -12632,7 +12632,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR08")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -12650,7 +12650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d414689f-a9b0-480d-be38-c2d2170c72de")
-		(property "Reference" "R4"
+		(property "Reference" "R30"
 			(at 196.85 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12670,7 +12670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.85 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -12712,7 +12712,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R4")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -12730,7 +12730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "daa9e8e1-564b-4238-bb06-015b018795e4")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR018"
 			(at 53.34 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -12790,7 +12790,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR038")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -12808,7 +12808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc47659-10ee-43bb-a704-fc87c3f0e4d5")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR0105"
 			(at 267.97 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -12868,7 +12868,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR018")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -12886,7 +12886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2ca8fc5-23df-49c4-b4d0-4aae23d7c413")
-		(property "Reference" "R7"
+		(property "Reference" "R14"
 			(at 107.95 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12950,7 +12950,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R7")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -12967,7 +12967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e56f08f4-cdf6-43f3-9430-d45f9a496110")
-		(property "Reference" "R5"
+		(property "Reference" "R9"
 			(at 90.17 54.356 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12987,7 +12987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 90.17 61.468 90)
 			(hide yes)
 			(show_name no)
@@ -13029,7 +13029,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R5")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13046,7 +13046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e70d2844-e821-4732-9a25-87743627ae4d")
-		(property "Reference" "R16"
+		(property "Reference" "R24"
 			(at 190.5 119.126 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13108,7 +13108,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "R16")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -13126,7 +13126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eae8a097-bea3-4bbd-b6d0-8b1070aae040")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR023"
 			(at 73.66 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13186,7 +13186,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR05")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -13348,7 +13348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f19efecd-bdb8-4f86-b4df-40b57bb99858")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR045"
 			(at 99.06 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -13408,7 +13408,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR024")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -13426,7 +13426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7b8813f-9bab-4473-970f-1943000d46ec")
-		(property "Reference" "C1"
+		(property "Reference" "C9"
 			(at 63.5 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13490,7 +13490,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "C1")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -13508,7 +13508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f982bfcb-6bbe-4cd0-af5a-13af485f5861")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR021"
 			(at 59.69 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13568,7 +13568,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR04")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -13586,7 +13586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc171ad4-2157-453e-85b3-87e423dcab81")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR03"
 			(at 19.05 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13646,7 +13646,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR012")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -13664,7 +13664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd3e53b5-89a9-41ae-876a-48c742a89e89")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR078"
 			(at 175.26 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -13724,7 +13724,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR01")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -13742,7 +13742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd70add2-f1aa-4ac1-9957-df042076a8be")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR042"
 			(at 97.79 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -13802,7 +13802,7 @@
 		(instances
 			(project "PI__SEMESTRE"
 				(path "/8c7ed7b6-4041-4e35-a16c-8ebc40739963"
-					(reference "#PWR017")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
