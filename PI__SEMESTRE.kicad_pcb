@@ -94,7 +94,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C23"
-			(at 3.07 -0.04 90)
+			(at 3.17 0.93 90)
 			(layer "F.SilkS")
 			(uuid "0f3201d4-8232-449c-b864-54edf8c08fba")
 			(effects
@@ -822,7 +822,7 @@
 		(property "Reference" "R19"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
-			(uuid "29d8b643-e73d-49ea-a107-7654b3032cf7")
+			(uuid "f3901f3e-3a53-43d3-8146-e2692917b45f")
 			(effects
 				(font
 					(size 1 1)
@@ -834,7 +834,7 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e245dfc5-5f9c-42ae-8a84-e7823ef43389")
+			(uuid "c5bbe088-4691-421a-a65e-cbfdb821971a")
 			(effects
 				(font
 					(size 1 1)
@@ -846,7 +846,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9006211-530f-452a-a7b5-d2290eb7a12c")
+			(uuid "58c6e396-88a2-433b-b59d-660ec389e265")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -857,7 +857,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96edafc7-696f-44a3-a996-3ac9e957cd08")
+			(uuid "cc89f746-8600-460d-96df-1f4e04105a09")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -977,7 +977,7 @@
 		(uuid "343ca4bd-d5d8-4618-a7b1-5dd0b8366a4f")
 		(at 125.705 86.53)
 		(property "Reference" "S4"
-			(at 0.425 -2.635 0)
+			(at 0.105 -2.31 0)
 			(layer "F.SilkS")
 			(uuid "7dabba16-6423-4a21-b15d-0b055dcde47a")
 			(effects
@@ -1680,8 +1680,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at -2.72 0.12 180)
+		(property "Value" "LED VIVO"
+			(at -2.81 -0.08 180)
 			(layer "F.Fab")
 			(uuid "d0df512f-1c6a-4b33-9dfc-e742843eaeaa")
 			(effects
@@ -1901,7 +1901,7 @@
 			)
 		)
 		(property "Value" "BME688"
-			(at 1.7 2.3 0)
+			(at 0.035 3.97 0)
 			(layer "F.Fab")
 			(uuid "2bb2a6ab-1bb5-4de4-adc5-b796c435b818")
 			(effects
@@ -2637,8 +2637,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at -2.77 0.14 180)
+		(property "Value" "LED 5V"
+			(at -2.79 0.01 180)
 			(layer "F.Fab")
 			(uuid "4d126df8-79ff-4844-bf91-7cc85f7de8a3")
 			(effects
@@ -2849,7 +2849,7 @@
 		(property "Reference" "U9"
 			(at 0.3 -2.3 0)
 			(layer "F.SilkS")
-			(uuid "adab9c2c-ddcc-4189-9158-a0907de7aaac")
+			(uuid "d37fbc0c-235e-427b-9527-9b43ac5b60f7")
 			(effects
 				(font
 					(size 0.787402 0.787402)
@@ -2860,7 +2860,7 @@
 		(property "Value" "GUVA-S12SD"
 			(at 0.29 2.37 0)
 			(layer "F.Fab")
-			(uuid "2390e524-5e6c-4ef3-b50f-7c8bdee6a349")
+			(uuid "63700cd7-eaea-4b7e-99c6-9868378d5291")
 			(effects
 				(font
 					(size 0.787402 0.787402)
@@ -2872,7 +2872,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29807951-409a-4f62-93df-190f8a9ed782")
+			(uuid "a901fd27-33ff-42c5-8147-5bfa62ecbe75")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2883,7 +2883,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4230dfd3-218d-4116-b565-3c0628368f14")
+			(uuid "d1236405-6eef-4b4d-91fe-991fffcf4033")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3692,8 +3692,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at -2.73 0.04 180)
+		(property "Value" "LED 3.3V"
+			(at -2.79 0.22 180)
 			(layer "F.Fab")
 			(uuid "ab343148-3977-44da-8b43-dd5f1777f593")
 			(effects
@@ -4585,7 +4585,7 @@
 		(property "Reference" "U11"
 			(at 2.99 -8.64 90)
 			(layer "F.SilkS")
-			(uuid "6af29706-096d-444b-aed0-27a883a4e6ea")
+			(uuid "74713b65-da94-4669-916e-a709fb77a736")
 			(effects
 				(font
 					(size 1 1)
@@ -4594,9 +4594,9 @@
 			)
 		)
 		(property "Value" "ESP32-S3-WROOM-1"
-			(at 8.03 11.365 90)
+			(at 13.21 0 180)
 			(layer "F.Fab")
-			(uuid "dcc436ab-b680-4013-91f6-1b9e15c73a3a")
+			(uuid "eb1f5679-f689-49e2-abed-6827b90728a4")
 			(effects
 				(font
 					(size 1 1)
@@ -4608,7 +4608,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17ce06b1-1a92-4822-83e4-b8a9b28f8957")
+			(uuid "c954c4d4-38f4-4a09-ade1-375fe7322d78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4619,7 +4619,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6842f5ec-571c-4aaf-bc83-ad969748b5ef")
+			(uuid "52dead99-28ae-4289-bb0e-9bc0c9a59078")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5392,7 +5392,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U1"
-			(at 0 -4.5 0)
+			(at 4.15 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "f85b7dde-6abf-4b9d-a32e-9b96845baedf")
 			(effects
@@ -7927,15 +7927,14 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R37"
-			(at 0 1.65 0)
-			(layer "B.SilkS")
+			(at 0 1.65 -0)
+			(layer "F.SilkS")
 			(uuid "7711a6c2-4364-4113-abc0-779a06f64546")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "10k"
@@ -8092,15 +8091,14 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R11"
-			(at 0.46 1.65 0)
-			(layer "B.SilkS")
+			(at 0.46 1.65 -0)
+			(layer "F.SilkS")
 			(uuid "7d9145de-93d2-44a0-8bcf-9e39c2454922")
 			(effects
 				(font
 					(size 0.508 0.508)
 					(thickness 0.127)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "10k"
@@ -8422,15 +8420,14 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R25"
-			(at 2.7 0.99 0)
-			(layer "B.SilkS")
+			(at 2.7 0.99 -0)
+			(layer "F.SilkS")
 			(uuid "41cfbf26-132d-421d-82ce-04437aa6a758")
 			(effects
 				(font
 					(size 0.508 0.508)
 					(thickness 0.127)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "4.7k"
