@@ -1,0 +1,7 @@
+(version 1)
+(rule Minimum_clearance_1
+	(constraint clearance (min 0.127mm))
+)
+(rule Minimum_thermal_relief_spoke_count_1
+	(constraint min_resolved_spokes 1)
+)
